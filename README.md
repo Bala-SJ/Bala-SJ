@@ -5,8 +5,11 @@
 - 📫 You can easily reach out to me via e-mail at bala@shop-jets.com. Feel free to connect if you have exciting projects, ideas, or if you simply want to discuss the latest trends and challenges in the ever-evolving landscape of e-commerce. I am open to collaboration and look forward to being a part of innovative endeavors that push the boundaries of web development in the e-commerce sector.
 
 Website : https://shop-jets.com/
+
 YouTube : https://www.youtube.com/@shopjets-shopify-agency
+
 Shopify Partner : https://apps.shopify.com/partners/shop-jets
+
 Image Optimizer app for Shopify : https://apps.shopify.com/shopjets-image-optimizer
 
 <!---
