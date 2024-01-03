@@ -6,7 +6,7 @@
 
 💞️ I am enthusiastic about collaborating on web development projects within the e-commerce industry. Whether it's revamping an existing online store, implementing new features, or conceptualizing and bringing to life a brand-new e-commerce platform, I am always eager to contribute my expertise and collaborate with like-minded professionals.
 
-📫 You can easily reach out to me via e-mail at bala@shop-jets.com. Feel free to connect if you have exciting projects, ideas, or if you simply want to discuss the latest trends and challenges in the ever-evolving landscape of e-commerce. I am open to collaboration and look forward to being a part of innovative endeavors that push the boundaries of web development in the e-commerce sector.
+📫 You can easily reach out to me via e-mail at bala at shop-jets dot com. Feel free to connect if you have exciting projects, ideas, or if you simply want to discuss the latest trends and challenges in the ever-evolving landscape of e-commerce. I am open to collaboration and look forward to being a part of innovative endeavors that push the boundaries of web development in the e-commerce industry.
 
 Website : https://shop-jets.com/
 
